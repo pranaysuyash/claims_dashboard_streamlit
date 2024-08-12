@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+#upload-section {
+    margin-bottom: 20px;
+}
+
+#file-input {
+    margin-right: 10px;
+}
+
+#analyze-btn {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#analyze-btn:hover {
+    background-color: #2980b9;
+}
+
+#results {
+    margin-top: 30px;
+}
+
+#category-select, #custom-top {
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+#custom-top {
+    width: 60px;
+}
+
+.chart-container {
+    margin-bottom: 30px;
+}
+
+table.dataTable {
+    width: 100% !important;
+    margin-bottom: 20px !important;
+}
+
+.dataTables_wrapper .dataTables_filter {
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    margin-top: 10px;
+}
+
+
+td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+
+td.details-control {
+    cursor: pointer;
+    text-align: center;
+  }
+  .expand-btn {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+    font-weight: bold;
+  }
+
+@media screen and (max-width: 640px) {
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter {
+        float: none;
+        text-align: left;
+    }
+}

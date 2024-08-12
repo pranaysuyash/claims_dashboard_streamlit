@@ -1,0 +1,129 @@
+Disease Category,Associated Tests
+Glucose Regulation,"Fasting Glucose, Fasting Insulin, HbA1c"
+Complete Blood Health,"Hemoglobin, ESR, RBC Count, Hematocrit, White Blood Cell count, Neutrophils, Lymphocytes, Eosinophils, Basophils, Monocytes, MCH (mean corpuscular hemoglobin), MCHC (mean corpuscular hemoglobin concentrated), Mean Corpuscular Volume, Platelet Count"
+Hormone Status,"Cortisol, Testosterone Total, Prostate Specific Antigen, Estradiol"
+Body Reactivity Assessment,Hs-CRP
+Cholesterol Assessment,"Total Cholesterol, Triglycerides, LDL Cholesterol, VLDL Cholesterol, HDL Cholesterol, Apolipoprotein B"
+Micronutrients,"Ferritin, Vitamin D, Calcium, Magnesium, Total Iron"
+Muscle Health,LDH (Lactate dehydrogenase)
+Kidney Health,"Blood Urea, BUN (blood urea nitrogen), Serum Creatinine, Uric Acid, eGFR, Sodium, Potassium, Chloride"
+Disease Risk Assessment,"Mentzer index, Sehgal Index, Prothrombin Time, INR (International normalised ratio), Apolipoprotein A1, Apolipoprotein B, HCV antibody, Immunoglobulin E"
+Thyroid Health Function,"Free T3, Free T4, TSH, Anti-TPO (Thyroid peroxidase)"
+General Health,"Vitamin B12, Vitamin D, Hs-CRP, Homocysteine, HbA1c, Cortisol, Serum Creatinine, Uric Acid, Calcium, Ferritin, Magnesium, Total Iron"
+Sleep Status,"Vitamin D, Cortisol, Magnesium, Ferritin, Total Iron, Fasting Glucose, HbA1c, Hs-CRP, TSH, Free T3, Hemoglobin, RBC Count"
+Inflammation Status,"Homocysteine, Hs-CRP, ESR, Fasting Insulin, Uric Acid, Ferritin, Immunoglobulin E, White Blood Cell count"
+Heart Health,"Hs-CRP, Homocysteine, Apolipoprotein A1, Apolipoprotein B, Lipoprotein A, Triglycerides, LDL Cholesterol, VLDL Cholesterol, HDL Cholesterol"
+Fatigue,"Cortisol, Vitamin D, Vitamin B12, Fasting Glucose, Fasting Insulin, HbA1c, Total Iron, Ferritin, Free T3, Free T4, TSH, Sodium, Potassium, Chloride, Hemoglobin, RBC Count"
+Hair Health,"Vitamin D, Vitamin B12, Total Iron, Ferritin, Hs-CRP, Testosterone Free, Testosterone Total, Dihydrotestosterone, Estradiol, Free T3, Free T4, TSH"
+Hormone Health,"Testosterone Free, Testosterone Total, Cortisol, Estradiol, Vitamin B12, Vitamin D, Free T3, Free T4"
+Detox Panel,"Albumin, Alkaline Phosphatase, Direct Bilirubin, GGT, Globulin, Indirect Bilirubin, SGOT, SGPT"
+Infectious Diseases,"Complete Blood Health, Disease Risk Assessment, General Health, Inflammation Status, Specific tests based on suspected infection (e.g., Malaria smear, Dengue tests, Widal test, Hepatitis tests)"
+Maternity & Reproductive Health,"Complete Blood Health, Hormone Status, Kidney Health, General Health, Specific tests based on condition (e.g., Pregnancy tests, Ultrasound, Glucose tolerance test)"
+Other,"Depends on specific condition - may include Complete Blood Health, General Health"
+Gastrointestinal Disorders,"Complete Blood Health, Detox Panel, Kidney Health, General Health, Specific tests based on condition (e.g., Ultrasound, CT scan, Stool culture)"
+Maternity & Reproductive Health (Uterine),"Hormone Status, Ultrasound, Hysteroscopy, Endometrial Biopsy"
+Respiratory Disorders,"Complete Blood Health, General Health, Specific tests based on condition (e.g., Chest X-ray, Pulmonary Function Tests)"
+Other (Injury Type),"Depends on injury - may include X-rays, CT scans, MRI"
+Musculoskeletal Disorders (Knee),"Physical Examination, X-rays, MRI"
+Musculoskeletal Disorders,"Complete Blood Health, Inflammation Status, General Health, Calcium, Vitamin D, Specific tests based on condition (e.g., X-ray, MRI, Joint aspiration)"
+Heart Ailments,"Complete Blood Health, Heart Health, General Health, Specific tests based on condition (e.g., ECG, Stress test, Echocardiogram)"
+Gastrointestinal Disorders (Acute),"Complete Blood Health, Detox Panel, Specific tests based on condition"
+Genitourinary Disorders,"Complete Blood Health, Kidney Health, General Health, Specific tests based on condition (e.g., Urinalysis, PSA test)"
+Gastrointestinal Disorders (with Dehydration),"Electrolyte Panel, Kidney Health, Detox Panel"
+"Infectious Diseases, Gastrointestinal Disorders",Combination of tests for both categories
+"Ear, Nose & Throat Disorders","Physical Examination, Hearing Tests, Specific tests based on condition"
+Kidney Ailments,"Kidney Health, Complete Blood Health, General Health"
+Cancer (Respiratory),"Imaging (CT scan, MRI, PET scan), Biopsy, Pulmonary Function Tests"
+"Maternity & Reproductive Health, Infectious Diseases",Combination of tests for both categories
+"Maternity & Reproductive Health, Gastrointestinal Disorders",Combination of tests for both categories
+"Maternity & Reproductive Health, Infectious Diseases, Gastrointestinal Disorders",Combination of tests for all three categories
+Maternity & Reproductive Health (with Seizures),"Standard Maternity tests, Neurological Tests (e.g., EEG)"
+Other (Neonatal Sepsis),"Complete Blood Health, Blood Culture, Lumbar Puncture"
+"Infectious Diseases, Kidney Ailments, Other (Lymphatic System)",Combination of tests for all three categories
+Endocrine Disorders (with Dehydration),"Glucose Regulation, Hormone Status, Electrolyte Panel"
+Other (Circulatory),Depends on specific circulatory issue - may include Heart Health tests
+Eye Disorders,"Visual acuity test, Refraction, Ophthalmoscopy, Tonometry"
+Other (Hematological),"Complete Blood Health, Bone Marrow Biopsy if needed"
+Other (Hematological with Electrolyte Issue),"Complete Blood Health, Electrolyte Panel"
+Congenital Disorders,"Depends on specific disorder - may include Genetic testing, Imaging studies"
+Respiratory Disorders (Neonatal),"Blood Gas Analysis, Chest X-ray"
+Musculoskeletal Disorders (Kidney Complication),Tests for Musculoskeletal Disorders and Kidney Health
+Maternity & Reproductive Health (Abnormal Uterine Bleeding),"Hormone Status, Ultrasound, Hysteroscopy"
+Mental Health,"Primarily diagnosed through clinical interviews and behavioral assessments, may include Thyroid Function tests, Complete Blood Health"
+Maternity & Reproductive Health (Breast),"Physical Examination, Mammography, Ultrasound, Biopsy if needed"
+Other (Substance Intoxication),Toxicology screening
+Gastrointestinal Disorders (Hernia),"Physical Examination, Imaging (Ultrasound, CT scan)"
+Respiratory Disorders (with Tuberculosis),"Chest X-ray, Tuberculin skin test, Sputum culture"
+Cancer,"Depends on type and location - may include Imaging studies, Biopsy, Tumor marker tests, Complete Blood Health"
+Cancer (Gastrointestinal),"Imaging studies, Endoscopy, Biopsy"
+Cancer (Respiratory Complication),Tests for both Respiratory Disorders and Cancer
+Cancer (Prostate),"PSA test, Digital Rectal Exam, Biopsy if needed"
+Cardiovascular Disorders,"Complete Blood Health, Heart Health, ECG, Echocardiogram"
+"Heart Ailments (Cardiogenic Shock, Metabolic)","ECG, Echocardiogram, Metabolic Panel"
+Neurological Disorders (Stroke),"Imaging studies (CT scan, MRI), Carotid ultrasound"
+Other (Lymphatic System),"Imaging studies, Biopsy if needed"
+Cardiovascular Disorders (Symptom),Depends on specific symptom - may include Heart Health tests
+Gastrointestinal Disorders (Liver),"Detox Panel, Imaging studies"
+"Gastrointestinal Disorders (Liver, Kidney)","Detox Panel, Kidney Health"
+Respiratory Disorders (Liver Complication),Tests for both Respiratory Disorders and Detox Panel
+Kidney Ailments (Fistula),"Imaging studies (Ultrasound, CT scan)"
+"Neurological Disorders (Stroke, Hypertension)","Tests for Stroke, Blood Pressure Monitoring"
+"Musculoskeletal Disorders (Spine, Infectious)","Imaging studies, Blood Tests for infection"
+Infectious Diseases (with Dehydration),"Tests for Infectious Diseases, Electrolyte Panel"
+Other (Dental),"Dental examination, X-rays"
+Eye Disorders (Diabetic Complication),"Standard Eye Tests, Glucose Regulation"
+Other (Consultation Type),Depends on reason for consultation
+Musculoskeletal Disorders (Back Pain),"Imaging studies (X-ray, MRI)"
+"Infectious Diseases, Endocrine Disorders, Kidney Ailments",Combination of tests for all three categories
+Kidney Ailments (End Stage Renal Disease),Comprehensive Kidney Health Tests
+Neurological Disorders,"Depends on specific disorder - may include Imaging studies, EEG"
+Infectious Diseases (with Anemia),"Tests for Infectious Diseases, Complete Blood Health"
+Kidney Ailments (with Fever),"Kidney Health Tests, Tests to identify cause of fever"
+"Respiratory Disorders, Infectious Diseases",Combination of tests for both categories
+"Infectious Diseases, Kidney Ailments",Combination of tests for both categories
+Other (Requires Context),Depends on specific context
+"Other (Surgical Procedure, Requires Context)",Depends on specific surgical procedure
+"Other (Surgical, Requires Context)",Depends on specific surgical reason
+Other (Autoimmune),"Antinuclear Antibody (ANA) Test, Inflammation Status, Specific tests based on suspected disorder"
+"Infectious Diseases, Gastrointestinal Disorders (Liver)",Combination of tests for both categories
+"Heart Ailments, Cardiovascular Disorders",Combination of tests for both categories
+Other (Elevated Bilirubin),"Detox Panel, Imaging studies of liver and bile ducts"
+Endocrine Disorders (with Hypertension),"Glucose Regulation, Hormone Status, Blood Pressure Monitoring"
+Endocrine Disorders,"Glucose Regulation, Hormone Status, Thyroid Health Function"
+Other (Electrolyte Imbalance),Electrolyte Panel
+"Gastrointestinal Disorders (Liver, Electrolyte)","Detox Panel, Electrolyte Panel"
+"Endocrine Disorders, Infectious Diseases",Combination of tests for both categories
+"Other (Infection, Lymphatic System)","Tests for infection, Imaging studies of lymphatic system"
+Skin Disorders,"Physical Examination, Skin Biopsy, Cultures if infection suspected"
+Maternity & Reproductive Health (Neonatal),Depends on specific neonatal issue
+"Other (Symptom, Requires Context)",Depends on specific symptom
+Musculoskeletal Disorders (Spine),"Imaging studies (X-ray, MRI, CT scan)"
+Maternity & Reproductive Health (Surgical),"Pre-operative tests, Post-operative monitoring"
+Cardiovascular Disorders (Circulatory Issues),Depends on specific circulatory issue - may include Heart Health tests
+Musculoskeletal Disorders (Requires More Context),Depends on specific musculoskeletal issue
+"Respiratory Disorders, Endocrine Disorders, Other (Hematological)",Combination of tests for all three categories
+"Respiratory Disorders, Cancer",Combination of tests for both categories
+Cancer (Urinary),"Urinalysis, Imaging studies, Cystoscopy"
+"Cancer (Gastrointestinal, Respiratory)",Combination of tests for both types of cancer
+"Maternity & Reproductive Health (Neonatal), Other (Elevated Bilirubin), Other (Hypocalcemia)",Combination of tests for all three categories
+Maternity & Reproductive Health (Neonatal Care),Depends on specific neonatal needs
+Endocrine Disorders (Diabetes),"Glucose Regulation, HbA1c"
+Musculoskeletal Disorders (Joint),"X-rays, MRI, Joint aspiration if needed"
+Other (Metabolic/Electrolyte),"Metabolic Panel, Electrolyte Panel"
+Respiratory Disorders (Viral),"Viral Panel, Chest X-ray if needed"
+Maternity & Reproductive Health (Ovarian),"Ultrasound, CA-125 Blood Test"
+Infectious Diseases (Malaria),"Malaria smear, Rapid Diagnostic Tests"
+Other (Symptom),Depends on specific symptom
+Gastrointestinal Disorders (with Menstrual Issue),"Tests for Gastrointestinal Disorders, Hormone Status"
+"Musculoskeletal Disorders, Skin Disorders",Combination of tests for both categories
+Other (Hospitalization Type),Depends on reason for hospitalization
+"Other (Implants, Requires Context)",Depends on type of implant and associated issues
+Maternity & Reproductive Health (Diabetic),Tests for both Maternity Health and Glucose Regulation
+Heart Ailments (Cardiogenic Shock),"ECG, Echocardiogram, Blood Tests"
+Other (Pediatric Check-up),"Physical Examination, Developmental Assessment, Vaccinations"
+"Musculoskeletal Disorders (Knee, Infectious)","Tests for Musculoskeletal Disorders, Tests to identify infection"
+"Other (Injury Type, Neurological)","Neurological Examination, Imaging studies"
+"Other (Injury Type, Head)","Neurological Examination, CT scan, MRI"
+Musculoskeletal Disorders (Neck and Back Pain),"Imaging studies (X-ray, MRI)"
+Neurological Disorders (Aneurysm),"Imaging studies (CT scan, MRI, Angiography)"
+Infectious Diseases,
